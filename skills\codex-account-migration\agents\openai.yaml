@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Account Migration"
+  short_description: "Export and restore portable Codex setup bundles"
+  default_prompt: "Use $codex-account-migration to export my portable Codex setup for another computer."
