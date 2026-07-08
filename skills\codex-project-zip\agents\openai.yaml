@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Project ZIP"
+  short_description: "Package Codex projects into clean ZIP files"
+  default_prompt: "Use $codex-project-zip to package this Codex project into a clean shareable ZIP."
